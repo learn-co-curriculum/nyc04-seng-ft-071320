@@ -11,3 +11,4 @@ Missing something? Ping your lead on Slack. (Also, here is [all the code](https:
 | Data Types/Methods | [Code](https://github.com/learn-co-students/nyc04-seng-ft-071320/tree/master/01-datatypes-methods) | [Video 1](https://youtu.be/qu_jkn759Hk), [Video 2](https://youtu.be/mibM7Lj_WXQ) |
 | Arrays + Hashes | [Code](https://github.com/learn-co-students/nyc04-seng-ft-071320/tree/master/02-arrays-and-hashes) | [Video](https://youtu.be/rEDAmSGE6co) |
 | Git && Bash |  N/A  | [Video](https://youtu.be/RXuU_tbYqas) |
+| Nested Data Structures | [Code](https://github.com/learn-co-students/nyc04-seng-ft-071320/tree/master/03-nested-data) | [Video 1](https://youtu.be/OS18-Po5y4k), [Video 2](https://youtu.be/YFfdkOZX4_U) |
