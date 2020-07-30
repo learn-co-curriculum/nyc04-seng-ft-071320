@@ -15,3 +15,4 @@ Missing something? Ping your lead on Slack. (Also, here is [all the code](https:
 | Ruby Enumerable Methods | [Code](https://github.com/learn-co-students/nyc04-seng-ft-071320/tree/master/04-enumerable-methods) | [Video 1](https://youtu.be/Qlih9bmodgA), [Video 2](https://youtu.be/cgcqsrh1V28) |
 | Pairing Talk | N/A | [Video](https://youtu.be/olo-bH65GFk) |
 | Hashketball | [Code](https://github.com/learn-co-students/nyc04-seng-ft-071320/tree/master/05-hashketball-review) | [Video 1](https://youtu.be/c2prV6MZlhc), [Video 2](https://youtu.be/ekvfBwMowr8) |
+| Enumerable Review | [Code](https://github.com/learn-co-students/nyc04-seng-ft-071320/tree/master/06-enumerable-assignment) | [Video 1](https://youtu.be/FhvsXeOAcog), [Video 2](https://youtu.be/rte2lxLEtVs) |
