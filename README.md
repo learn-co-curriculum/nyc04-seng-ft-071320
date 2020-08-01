@@ -28,10 +28,6 @@ Missing something? Ping your lead on Slack. (Also, here is [all the code](https:
 
 ## Lecture Link
 All the lectures will use [the same link](https://flatironschool.zoom.us/j/92799283768?pwd=L20xVmc5VGFzUGRMcFRPaDdVazIzdz09).
-<details>
-  <summary>Here are the meeting deatils if you want to access it in another way:</summary>
-  <p> <strong> Topic: The Code Benders Lecture </strong></p> 
-
 <p> Join Zoom Meeting: <a href="https://flatironschool.zoom.us/j/92799283768?pwd=L20xVmc5VGFzUGRMcFRPaDdVazIzdz09"> https://flatironschool.zoom.us/j/92799283768?pwd=L20xVmc5VGFzUGRMcFRPaDdVazIzdz09 </a>  </p>
 
 <p> <strong> Meeting ID: </strong> 927 9928 3768</p> 
@@ -54,4 +50,3 @@ All the lectures will use [the same link](https://flatironschool.zoom.us/j/92799
 <p> <strong> Meeting ID:</strong> 927 9928 3768</p>
 <p> <strong> Passcode:</strong> 172755</p>
 <p> <strong> Find your local number:</strong> https://flatironschool.zoom.us/u/abzka8FwCI</p>
-</details>
