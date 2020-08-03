@@ -7,9 +7,9 @@
 ## Mod1
 Missing something? Ping your lead on Slack. (Also, here is [all the code](https://github.com/learn-co-students/nyc04-seng-ft-071320) from the lectures.) 
 
-| Topic            | Code                | Video                |
-| -----            | ----                | -----                |
-| Intro to Object Orientation in Ruby | [Code]() | [Video 1]() |
+| Topic            | Code                | Video                | Chat notes |
+| -----            | ----                | -----                | ---- |
+| Intro to Object Orientation in Ruby | [Code](https://github.com/learn-co-students/nyc04-seng-ft-071320/tree/master/07-intro-to-oo-in-ruby) | [Video](https://flatironschool.zoom.us/rec/share/tOJIMprz_ENLes-c1ULUVZIHHLXBeaa8hnRL-vcIzxttyPv9Kc8glDZLaFNvi-wx) | [Chat](https://github.com/learn-co-students/nyc04-seng-ft-071320/blob/master/07-intro-to-oo-in-ruby/W1Monday-1-intro-to-oo.txt)
 
 
 ## Prework 
