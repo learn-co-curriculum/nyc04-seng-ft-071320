@@ -10,6 +10,7 @@ Missing something? Ping your lead on Slack. (Also, here is [all the code](https:
 | Topic            | Code                | Video                | Chat notes |
 | -----            | ----                | -----                | ---- |
 | Intro to Object Orientation in Ruby | [Code](https://github.com/learn-co-students/nyc04-seng-ft-071320/tree/master/07-intro-to-oo-in-ruby) | [Video](https://flatironschool.zoom.us/rec/share/tOJIMprz_ENLes-c1ULUVZIHHLXBeaa8hnRL-vcIzxttyPv9Kc8glDZLaFNvi-wx) | [Chat](https://github.com/learn-co-students/nyc04-seng-ft-071320/blob/master/07-intro-to-oo-in-ruby/W1Monday-1-intro-to-oo.txt)
+| Intro to OO in Ruby: Classes, Instances, Instance variables | [Code](https://github.com/learn-co-students/nyc04-seng-ft-071320/tree/master/08-Classes-Instances-Attributes)| [Video](https://flatironschool.zoom.us/rec/share/68pnIYuu6kFJW4mOq2faQKAFEoPdeaa813UW-_oMzEzCVia4ENxrmn7X58cYHBDC) | [Chat](https://github.com/learn-co-students/nyc04-seng-ft-071320/blob/master/07-intro-to-oo-in-ruby/W1Monday-2-classes-instances-instance-variables.txt) |
 
 
 ## Prework 
