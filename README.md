@@ -20,6 +20,7 @@ Missing something? Ping your lead on Slack. (Also, here is [all the code](https:
 | Initializing in one-to-many (12mins) | [Code](https://github.com/learn-co-students/nyc04-seng-ft-071320/tree/master/11%2C6-song-belongs-to-artist)| [Video](https://flatironschool.zoom.us/rec/play/65Z_dr2q_Wg3GoWc4gSDVvJ5W9S4LK-sh3Uf-PYNzkqxAnULOgDyMLsVYOXEMd_ZZ_GEFJ-1zU4c4U8I?continueMode=true&_x_zm_rtaid=4j3aAbQTS8OVK-Qr20nRHg.1596898373593.98b82382a675a2c14fc56f986a5a3705&_x_zm_rhtaid=408) | n/a |
 | Intro to SQL with Eric | [Code](https://github.com/learn-co-students/nyc04-seng-ft-071320/tree/master/12-sql) | [Video](https://flatironschool.zoom.us/rec/share/7-coBuvC7VxJUq_GyE2Pf_YYFZbAT6a82ycarKJZmUaiEEz_FMgT4QHrjwkba_d6
 ) | N/A |
+| Very long intro to ActiveRecord | [Code](https://github.com/learn-co-students/nyc04-seng-ft-071320/tree/master/13-intro-to-AR) | [Video](https://flatironschool.zoom.us/rec/play/75IqJr-r_z43GIWW5ASDBKJ7W47sJ6qsgCYXr6EMykjjW3ALZADwZOMQYOP6vU0ADhjdCwyuL7AXTMP6?continueMode=true) | N/A |
 
 ## Prework 
 Missing something? Ping your lead on Slack. (Also, here is [all the code](https://github.com/learn-co-students/nyc04-seng-ft-071320) from the lectures.) 
