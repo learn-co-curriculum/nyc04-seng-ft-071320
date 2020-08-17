@@ -62,3 +62,35 @@ All the lectures will use [the same link](https://flatironschool.zoom.us/j/92799
 <p> <strong> Meeting ID:</strong> 927 9928 3768</p>
 <p> <strong> Passcode:</strong> 172755</p>
 <p> <strong> Find your local number:</strong> https://flatironschool.zoom.us/u/abzka8FwCI</p>
+
+## Blog Schedule
+
+Be sure to publish all your blogs on [Medium](https://medium.com/) or [Dev](https://dev.to) and slack the link to your post to the group 15mins before your presentation. We make the blog schedule available here on your Learn.co dashboard so that you may **plan ahead**. It may happen that your SECs will PM you in slack with both **constructive feedback** to give you the opportunity to sharpen your presentation and idea sharing skills throughout the program. If you haven't received feedback and would like to get it, just ask!
+
+**Remember, blog presentations should be no longer than 4mins — after we allow 2mins for for questions.** If you're wondering why we blog, check out this [README](https://github.com/learn-co-curriculum/web-immersive-blogging).
+
+**Blog etiquette and other considerations**
+1. Follow each other on these platforms! 
+2. Clap/like the posts as much as possible for all your cohort mates! It takes 10 seconds and it goes a long way!
+3. If you've written a blog post, share it on LinkedIn and/or Twitter (you can use the hashtags #codeNewbies #100daysOfCode #devLife and tag @FlatironSchool). Take this opportunity to start building your online presence! 
+
+| **Date** | **Blog Presenters**                                                        |
+| -------- | ---------------------------------------------------------------------------|
+| 09/01    | Alex, Anna, Bella, ChenYun, Christy, David                    |
+| 09/03    | Dong, Katherine, Emmanuel, Franklin, Hortencia, Jade      |
+| 09/08    | Daisy, Lida, Nunny, Patrick, Samantha, Samir                   |
+| 09/10    | Sayana, Steven, Waverley, Wilson, Alex, Anna                       |
+| 09/15    | Bella, ChenYun, Christy, David, Dong, Katherine                      |
+| 09/17    | Emmanuel, Franklin, Hortencia, Jade, Josh, Daisy                         |
+| 09/22    | Lida, Nunny, Patrick, Samantha, Samir, Sayana                |
+| 09/24    | Steven, Waverley, Wilson, Alex, Anna, Bella                  |
+| 09/28    | ChenYun, Christy, David, Dong, Katherine, Emmanuel                     |
+| 10/01    | Franklin, Hortencia, Jade, Josh, Daisy, Lida                     |
+| 10/06    | Nunny, Patrick, Samantha, Samir, Sayana, Steven                     |
+| 10/08    | Waverley, Wilson, Anna, Bella, ChenYun, Christy                     |
+| 10/13    | David, Dong, Katherine, Emmanuel, Franklin, Hortencia            |
+| 10/15    | Jade, Josh, Daisy, Lida, Nunny, Patrick                     |
+| 10/20    | Samantha, Samir, Sayana, Steven, Waverley, Wilson                     |
+| 10/22    | Josh, Daisy, Alex                     |
+
+
