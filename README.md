@@ -23,6 +23,7 @@ Missing something? Ping your lead on Slack. (Also, here is [all the code](https:
 | Review: AR CRUD | [Code](https://github.com/learn-co-students/nyc04-seng-ft-071320/tree/master/14-AR-CRUD) | [Video](https://flatironschool.zoom.us/recording/detail?meeting_id=91LErRvRRi2X0RbIp0XoTQ%3D%3D) | N/A |
 | Lecture: AR Relationships | [Code](https://github.com/learn-co-students/nyc04-seng-ft-071320/tree/master/15-AR-relationships) | [Video](https://flatironschool.zoom.us/rec/play/u8csd-CtqDI3TobG4QSDBP4qW42-J6ys1yAfq_oFxE-yUiRSYFSvN7JHNudYc4jRFXBtF_Xcp2AbPPkN?autoplay=true&startTime=1597341766000) | [Chat](https://github.com/learn-co-students/nyc04-seng-ft-071320/blob/master/10-one-to-many/W2-Thu.txt) |
 | Lecture: More Models + TTY Prompt | [Code](https://github.com/learn-co-students/nyc04-seng-ft-071320/tree/master/16-more-models-and-project-setup) | [Video](https://flatironschool.zoom.us/rec/play/7MB-Jr38qD43S4GU4gSDA_5_W9W_Kq6sgycY-KEMxBu8ACFSM1fzY7EVNOeZ5joqnEZ-qx7UczsQ6UbA?autoplay=true&startTime=1597426461000) | n/a |
+| Practicing Pry in ActiveRecord | [Code](https://github.com/learn-co-students/nyc04-seng-ft-071320/tree/master/17-practicing-AR-pry) | [Video](https://flatiron-school.slack.com/files/UTFAJJX7D/F019PB0QNAC/activerecord_pry_review.mp4) | n/a |
 
 ## Prework 
 Missing something? Ping your lead on Slack. (Also, here is [all the code](https://github.com/learn-co-students/nyc04-seng-ft-071320) from the lectures.) 
