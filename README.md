@@ -3,10 +3,16 @@
 ## Calendar
 <iframe src="https://calendar.google.com/calendar/b/1/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FNew_York&amp;src=ZmxhdGlyb25zY2hvb2wuY29tX2RrN3UxM3IwbnNhNzNvbXBtMnZrMm5qcmxnQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&amp;src=ZmxhdGlyb25zY2hvb2wuY29tX241aDBmbHNkOGY0aWU1NzNtZnY2bTg1cm4wQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&amp;color=%230B8043&amp;color=%23D81B60&amp;mode=WEEK" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
-
-## Mod1
+## Lectures and reviews
 Missing something? Ping your lead on Slack. (Also, here is [all the code](https://github.com/learn-co-students/nyc04-seng-ft-071320) from the lectures.) 
 
+## Mod2
+
+| Topic            | Code                | Video                | Chat notes |
+| -----            | ----                | -----                | ---- |
+| Intro to Rails | [Code](https://github.com/learn-co-students/nyc04-seng-ft-071320/tree/master/19-intro-to-rails) | [Video 1](https://flatironschool.zoom.us/rec/share/w8xSDODu0WlIGrfK5xDRf4wBPKDaaaa82yUdr6IOnk1KQK8OD-H45DyVeB722Tfe?startTime=1598291679000)  [Video 2](https://flatironschool.zoom.us/rec/share/w8xSDODu0WlIGrfK5xDRf4wBPKDaaaa82yUdr6IOnk1KQK8OD-H45DyVeB722Tfe?startTime=1598294129000)| N/A |
+
+## Mod 1
 | Topic            | Code                | Video                | Chat notes |
 | -----            | ----                | -----                | ---- |
 | Intro to Object Orientation in Ruby | [Code](https://github.com/learn-co-students/nyc04-seng-ft-071320/tree/master/07-intro-to-oo-in-ruby) | [Video](https://flatironschool.zoom.us/rec/share/tOJIMprz_ENLes-c1ULUVZIHHLXBeaa8hnRL-vcIzxttyPv9Kc8glDZLaFNvi-wx) | [Chat](https://github.com/learn-co-students/nyc04-seng-ft-071320/blob/master/07-intro-to-oo-in-ruby/W1Monday-1-intro-to-oo.txt)
