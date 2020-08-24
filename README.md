@@ -10,7 +10,7 @@ Missing something? Ping your lead on Slack. (Also, here is [all the code](https:
 
 | Topic            | Code                | Video                | Chat notes |
 | -----            | ----                | -----                | ---- |
-| Intro to Rails | [Code](https://github.com/learn-co-students/nyc04-seng-ft-071320/tree/master/19-intro-to-rails) | [Video 1](https://flatironschool.zoom.us/rec/share/w8xSDODu0WlIGrfK5xDRf4wBPKDaaaa82yUdr6IOnk1KQK8OD-H45DyVeB722Tfe?startTime=1598291679000)  [Video 2](https://flatironschool.zoom.us/rec/share/w8xSDODu0WlIGrfK5xDRf4wBPKDaaaa82yUdr6IOnk1KQK8OD-H45DyVeB722Tfe?startTime=1598294129000)| N/A |
+| Intro to Rails | [Code](https://github.com/learn-co-students/nyc04-seng-ft-071320/tree/master/19-intro-to-rails) | [Video 1](https://flatironschool.zoom.us/rec/share/w8xSDODu0WlIGrfK5xDRf4wBPKDaaaa82yUdr6IOnk1KQK8OD-H45DyVeB722Tfe?startTime=1598291679000),  [Video 2](https://flatironschool.zoom.us/rec/share/w8xSDODu0WlIGrfK5xDRf4wBPKDaaaa82yUdr6IOnk1KQK8OD-H45DyVeB722Tfe?startTime=1598294129000)| N/A |
 
 ## Mod 1
 | Topic            | Code                | Video                | Chat notes |
