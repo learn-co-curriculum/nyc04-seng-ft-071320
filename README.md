@@ -11,7 +11,9 @@ Missing something? Ping your lead on Slack. (Also, here is [all the code](https:
 | Topic            | Code                | Video                | Chat notes |
 | -----            | ----                | -----                | ---- |
 | Intro to Rails | [Code](https://github.com/learn-co-students/nyc04-seng-ft-071320/tree/master/19-intro-to-rails) | [Video 1](https://flatironschool.zoom.us/rec/share/w8xSDODu0WlIGrfK5xDRf4wBPKDaaaa82yUdr6IOnk1KQK8OD-H45DyVeB722Tfe?startTime=1598291679000),  [Video 2](https://flatironschool.zoom.us/rec/share/w8xSDODu0WlIGrfK5xDRf4wBPKDaaaa82yUdr6IOnk1KQK8OD-H45DyVeB722Tfe?startTime=1598294129000)| N/A |
-| Read in Rest | [Code](https://github.com/learn-co-students/nyc04-seng-ft-071320/tree/master/20-rest-and-read-in-rails) | [Video](https://flatironschool.zoom.us/rec/play/7MElcbj8qDw3EoKU5gSDB_9xW47uK_-sh3Ie_qJZmkq2AHcFNlugZLUbZurqUh1rbjh6qMOzpEXKc3JI?autoplay=true&startTime=1598376742000)| [Chat](https://github.com/learn-co-students/nyc04-seng-ft-071320/blob/master/20-rest-and-read-in-rails/M2W1D2.txt) |
+| Read and Rest in Rails | [Code](https://github.com/learn-co-students/nyc04-seng-ft-071320/tree/master/20-rest-and-read-in-rails) | [Video](https://flatironschool.zoom.us/rec/play/7MElcbj8qDw3EoKU5gSDB_9xW47uK_-sh3Ie_qJZmkq2AHcFNlugZLUbZurqUh1rbjh6qMOzpEXKc3JI?autoplay=true&startTime=1598376742000)| [Chat](https://github.com/learn-co-students/nyc04-seng-ft-071320/blob/master/20-rest-and-read-in-rails/M2W1D2.txt) |
+| CRUD in Rails | [Code](https://github.com/learn-co-students/nyc04-seng-ft-071320/tree/master/21-crud-in-rails) | [Video](https://flatironschool.zoom.us/rec/share/x9NsC6r--VtJYZGO5AbgC5MZBtniX6a81nce-qAFzht1BLaDM18fs_iNpJku3nG4?startTime=1598464952000)| [Chat](https://github.com/learn-co-students/nyc04-seng-ft-071320/blob/master/21-crud-in-rails/M2W1D3.txt), [Slides](https://docs.google.com/presentation/d/1nvHO7oUfWKUgU3qF25couGCIJuNaHAkvTWGzfernVKQ/edit?usp=sharing) |
+
 
 ## Mod 1
 | Topic            | Code                | Video                | Chat notes |
