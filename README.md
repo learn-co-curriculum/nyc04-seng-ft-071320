@@ -6,7 +6,12 @@
 ## Lectures and reviews
 Missing something? Ping your lead on Slack. (Also, here is [all the code](https://github.com/learn-co-students/nyc04-seng-ft-071320) from the lectures.) 
 
-## Mod2
+## Mod 3
+| Topic            | Code                | Video                | Chat notes |
+| -----            | ----                | -----                | ---- |
+| Rails Fun | [Code](https://github.com/learn-co-students/nyc04-seng-ft-071320/tree/master/29-intro-to-js) | [Video 1](https://youtu.be/ZGJjb1WZC0A), [Video 2](https://youtu.be/6XXE9yKoi3g) | [Chat](https://github.com/learn-co-students/nyc04-seng-ft-071320/blob/master/29-intro-to-js/chat.txt) |
+
+## Mod 2
 
 | Topic            | Code                | Video                | Chat notes |
 | -----            | ----                | -----                | ---- |
