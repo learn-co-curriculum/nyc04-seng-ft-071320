@@ -10,6 +10,7 @@ Missing something? Ping your lead on Slack. (Also, here is [all the code](https:
 | Topic            | Code                | Video                | Chat notes |
 | -----            | ----                | -----                | ---- |
 | Intro to JS | [Code](https://github.com/learn-co-students/nyc04-seng-ft-071320/tree/master/29-intro-to-js) | [Video 1](https://youtu.be/ZGJjb1WZC0A), [Video 2](https://youtu.be/6XXE9yKoi3g) | [Chat](https://github.com/learn-co-students/nyc04-seng-ft-071320/blob/master/29-intro-to-js/chat.txt) |
+| Intro to DOM | [Code](https://github.com/learn-co-students/nyc04-seng-ft-071320/tree/master/30-intro-to-dom) | [1](https://youtu.be/TRMxxcRF2ic), [2](https://youtu.be/VnlJhoS2AeQ), [3](https://youtu.be/99nV71tsWvY), [4](https://youtu.be/E9yk1yFSPQ4) | [Chat](https://github.com/learn-co-students/nyc04-seng-ft-071320/blob/master/30-intro-to-dom/chat.txt) |
 
 ## Mod 2
 
