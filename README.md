@@ -62,29 +62,12 @@ Missing something? Ping your lead on Slack. (Also, here is [all the code](https:
 | Enumerable Review | [Code](https://github.com/learn-co-students/nyc04-seng-ft-071320/tree/master/06-enumerable-assignment) | [Video 1](https://youtu.be/FhvsXeOAcog), [Video 2](https://youtu.be/rte2lxLEtVs) |
 
 ## Lecture Link
-All the lectures will use [the same link](https://flatironschool.zoom.us/j/92799283768?pwd=L20xVmc5VGFzUGRMcFRPaDdVazIzdz09).
-<p> Join Zoom Meeting: <a href="https://flatironschool.zoom.us/j/92799283768?pwd=L20xVmc5VGFzUGRMcFRPaDdVazIzdz09"> https://flatironschool.zoom.us/j/92799283768?pwd=L20xVmc5VGFzUGRMcFRPaDdVazIzdz09 </a>  </p>
+All the lectures will use [the same link](https://flatironschool.zoom.us/j/3089058890?pwd=aHhWMU56aG5HRTNRUWJ3WlEvMmZ1QT09).
+<p> Join Zoom Meeting: <a href="https://flatironschool.zoom.us/j/3089058890?pwd=aHhWMU56aG5HRTNRUWJ3WlEvMmZ1QT09"> https://flatironschool.zoom.us/j/3089058890?pwd=aHhWMU56aG5HRTNRUWJ3WlEvMmZ1QT09 </a>  </p>
 
-<p> <strong> Meeting ID: </strong> 927 9928 3768</p> 
-<p> <strong> Passcode: </strong> 172755</p> 
+<p> <strong> Meeting ID: </strong> 308 905 8890</p> 
+<p> <strong> Passcode: </strong> 400655</p> 
 
-<ul> <p><strong> One tap mobile: </strong></p>
-  <li> <a href="tel:+13126266799,,92799283768#,,,,,,0#,,172755#"> +13126266799,,92799283768#,,,,,,0#,,172755# US (Chicago) </a> </li>
-  <li> <a href="tel:+13462487799,,92799283768#,,,,,,0#,,172755#"> +13462487799,,92799283768#,,,,,,0#,,172755# US (Houston) </a> </li>
- </ul>
-
-<ul> 
-<p><strong> Dial by your location</strong></p>
-  <li>  <a href="tel:+1312-626-6799"> +1 312 626 6799 US (Chicago)  </a></li>
-  <li> <a href="tel:+1346-248-7799"> +1 346 248 7799 US (Houston) </a></li>
-  <li> <a href="tel:+1646-558-8656"> +1 646 558 8656 US (New York) </a></li>
-  <li>  <a href="tel:+1669-900-9128"> +1 669 900 9128 US (San Jose) </a></li>
-  <li>  <a href="tel:+1253-215-8782"> +1 253 215 8782 US (Tacoma) </a></li>
-  <li>  <a href="tel:+1301-715-8592"> +1 301 715 8592 US (Germantown) </a></li>
- </ul> 
-<p> <strong> Meeting ID:</strong> 927 9928 3768</p>
-<p> <strong> Passcode:</strong> 172755</p>
-<p> <strong> Find your local number:</strong> https://flatironschool.zoom.us/u/abzka8FwCI</p>
 
 ## Blog Schedule
 
