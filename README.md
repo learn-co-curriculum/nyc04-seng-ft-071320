@@ -14,6 +14,7 @@ Missing something? Ping your lead on Slack. (Also, here is [all the code](https:
 | Events | [Code](https://github.com/learn-co-students/nyc04-seng-ft-071320/tree/master/31-events) | [Video 1](https://youtu.be/OWhy99mJyVU), [Video 2](https://youtu.be/3vmvIfLOZUM) | [Chat](https://github.com/learn-co-students/nyc04-seng-ft-071320/blob/master/31-events/chat.txt) |
 | Closure && Delegation | [Code](https://github.com/learn-co-students/nyc04-seng-ft-071320/tree/master/32-closure) | [Closure](https://youtu.be/QTMruds8TIU), [Delegation](https://youtu.be/-5CUOBt1GFM) | [Chat](https://github.com/learn-co-students/nyc04-seng-ft-071320/blob/master/32-closure/chat.txt) |
 | Fetch | [Code](https://github.com/learn-co-students/nyc04-seng-ft-071320/tree/master/33-fetch) | [Video 1](https://youtu.be/VtjWaxd6NrA), [Video 2](https://youtu.be/kP6bEzOg5gc), [Video 3](https://youtu.be/JGYbuzB_Mqg) | [Chat](https://github.com/learn-co-students/nyc04-seng-ft-071320/blob/master/33-fetch/chat.txt) |
+| Posting Fetch | [Code](https://github.com/learn-co-students/nyc04-seng-ft-071320/tree/master/34-post-fetch) | [Video 1](https://youtu.be/k7zntMz0uvM), [Video 2](https://youtu.be/t6iKsY0RsO4), [Video 3](https://youtu.be/FfDgrlodKpE) | [Chat](https://github.com/learn-co-students/nyc04-seng-ft-071320/blob/master/34-post-fetch/chat.txt) |
 
 ## Mod 2
 
