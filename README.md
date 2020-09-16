@@ -13,6 +13,7 @@ Missing something? Ping your lead on Slack. (Also, here is [all the code](https:
 | Intro to DOM | [Code](https://github.com/learn-co-students/nyc04-seng-ft-071320/tree/master/30-intro-to-dom) | [1](https://youtu.be/TRMxxcRF2ic), [2](https://youtu.be/VnlJhoS2AeQ), [3](https://youtu.be/99nV71tsWvY), [4](https://youtu.be/E9yk1yFSPQ4) | [Chat](https://github.com/learn-co-students/nyc04-seng-ft-071320/blob/master/30-intro-to-dom/chat.txt) |
 | Events | [Code](https://github.com/learn-co-students/nyc04-seng-ft-071320/tree/master/31-events) | [Video 1](https://youtu.be/OWhy99mJyVU), [Video 2](https://youtu.be/3vmvIfLOZUM) | [Chat](https://github.com/learn-co-students/nyc04-seng-ft-071320/blob/master/31-events/chat.txt) |
 | Closure && Delegation | [Code](https://github.com/learn-co-students/nyc04-seng-ft-071320/tree/master/32-closure) | [Closure](https://youtu.be/QTMruds8TIU), [Delegation](https://youtu.be/-5CUOBt1GFM) | [Chat](https://github.com/learn-co-students/nyc04-seng-ft-071320/blob/master/32-closure/chat.txt) |
+| Fetch | [Code](https://github.com/learn-co-students/nyc04-seng-ft-071320/tree/master/33-fetch) | [Video 1](https://youtu.be/VtjWaxd6NrA), [Video 2](https://youtu.be/kP6bEzOg5gc), [Video 3](https://youtu.be/JGYbuzB_Mqg) | [Chat](https://github.com/learn-co-students/nyc04-seng-ft-071320/blob/master/33-fetch/chat.txt) |
 
 ## Mod 2
 
