@@ -16,6 +16,8 @@ Missing something? Ping your lead on Slack. (Also, here is [all the code](https:
 | Fetch | [Code](https://github.com/learn-co-students/nyc04-seng-ft-071320/tree/master/33-fetch) | [Video 1](https://youtu.be/VtjWaxd6NrA), [Video 2](https://youtu.be/kP6bEzOg5gc), [Video 3](https://youtu.be/JGYbuzB_Mqg) | [Chat](https://github.com/learn-co-students/nyc04-seng-ft-071320/blob/master/33-fetch/chat.txt) |
 | Posting Fetch | [Code](https://github.com/learn-co-students/nyc04-seng-ft-071320/tree/master/34-post-fetch) | [Video 1](https://youtu.be/k7zntMz0uvM), [Video 2](https://youtu.be/t6iKsY0RsO4), [Video 3](https://youtu.be/FfDgrlodKpE) | [Chat](https://github.com/learn-co-students/nyc04-seng-ft-071320/blob/master/34-post-fetch/chat.txt) |
 | Fetch CR | [Code](https://github.com/learn-co-students/nyc04-seng-ft-071320/tree/master/35-fetch-cr) | [Video 1](https://youtu.be/bYnq2VDKSiQ), [Video 2](https://youtu.be/iHGlqUEBJCM) | [Chat](https://github.com/learn-co-students/nyc04-seng-ft-071320/blob/master/35-fetch-cr/chat.txt) |
+| Fetch UD | [Code](https://github.com/learn-co-students/nyc04-seng-ft-071320/tree/master/36-fetch-ud) | [Video 1](https://youtu.be/NWazXWC2b2k), [Video 2](https://youtu.be/ZbXFVrLLeLs) | [Chat](https://github.com/learn-co-students/nyc04-seng-ft-071320/blob/master/36-fetch-ud/chat.txt) |
+
 
 ## Mod 2
 
