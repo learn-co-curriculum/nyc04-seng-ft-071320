@@ -92,17 +92,19 @@ Be sure to publish all your blogs on [Medium](https://medium.com/) or [Dev](http
 | 09/03    | Dong, Katherine, Emmanuel, Franklin, Hortencia, Jade      |
 | 09/08    | Lida, Patrick, Samir                   |
 | 09/10    | Waverley, Wilson                      |
-| 09/15    | Bella, ChenYun, Christy, David, Dong, Samantha, Sayana                      |
+| 09/15    | ChenYun, Christy, David, Dong, Samantha, Sayana                      |
 | 09/17    | Emmanuel, Franklin, Hortencia, Jade, Daisy, Jacie, Anna                          |
 | 09/22    | Lida, Nunny, Patrick, Samantha, Samir, Sayana                |
-| 09/24    | Steven, Waverley, Wilson, Alex, Anna, Bella, Nunny                  |
+| 09/24    | Steven, Waverley, Wilson, Alex, Anna, Nunny                  |
 | 09/28    | ChenYun, Christy, David, Dong, Katherine, Emmanuel                     |
 | 10/01    | Franklin, Hortencia, Jade, Daisy, Lida, Jacie                     |
 | 10/06    | Nunny, Patrick, Samantha, Samir, Sayana, Steven                     |
-| 10/08    | Waverley, Wilson, Anna, Bella, ChenYun, Christy                     |
+| 10/08    | Waverley, Wilson, Anna, ChenYun, Christy                     |
 | 10/13    | David, Dong, Katherine, Emmanuel, Franklin, Hortencia            |
-| 10/15    | Jade, Daisy, Lida, Nunny, Patrick, Alex                     |
+| 10/15    | Jade, Daisy, Lida, Nunny, Patrick, Alex, Bella                     |
 | 10/20    | Samantha, Samir, Sayana, Steven, Jacie                    |
 | 10/22    | Waverley, Wilson, Daisy, Alex, Katherine, Bella                      |
+| 10/29    | Bella                      |
+| 11/05    | Bella                      |
 
 
