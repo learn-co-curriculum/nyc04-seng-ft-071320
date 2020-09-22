@@ -97,17 +97,15 @@ Be sure to publish all your blogs on [Medium](https://medium.com/) or [Dev](http
 | 09/10    | Waverley, Wilson                      |
 | 09/15    | ChenYun, Christy, David, Dong, Samantha, Sayana                      |
 | 09/17    | Emmanuel, Franklin, Hortencia, Jade, Jacie, Anna                          |
-| 09/22    | Lida, Nunny, Patrick, Samantha, Samir                |
-| 09/24    | Steven, Waverley, Wilson, Alex, Anna, Nunny                  |
-| 09/28    | ChenYun, Christy, David, Dong, Katherine, Emmanuel                     |
-| 10/01    | Franklin, Hortencia, Jade, Daisy, Lida, Jacie                     |
-| 10/06    | Nunny, Patrick, Samantha, Samir, Sayana, Steven                     |
-| 10/08    | Waverley, Wilson, Anna, ChenYun, Christy                     |
-| 10/13    | David, Dong, Katherine, Emmanuel, Franklin, Hortencia            |
-| 10/15    | Jade, Daisy, Lida, Nunny, Patrick, Alex, Bella                     |
-| 10/20    | Samantha, Samir, Sayana, Steven, Jacie                    |
-| 10/22    | Waverley, Wilson, Daisy, Alex, Katherine, Bella                      |
-| 10/29    | Bella                      |
-| 11/05    | Bella, Daisy, Sayana                      |
-
-
+| Tues 09/22    | Lida, Nunny, Patrick, Samantha                |
+| Thurs 09/24    | Steven, Waverley, Wilson, Alex, Anna, Nunny                  |
+| Tues 09/29    | ChenYun, Christy, David, Dong, Katherine, Emmanuel, Samir                     |
+| Thurs 10/01    | Franklin, Hortencia, Jade, Daisy, Lida, Jacie                     |
+| Tues 10/06    | Nunny, Patrick, Samantha, Samir, Sayana, Steven                     |
+| Thurs 10/08    | Waverley, Wilson, Anna, ChenYun, Christy                     |
+| Tues 10/13    | David, Dong, Katherine, Emmanuel, Franklin, Hortencia            |
+| Thurs 10/15    | Jade, Daisy, Lida, Nunny, Patrick, Alex, Bella                     |
+| Tues 10/20    | Samantha, Samir, Sayana, Steven, Jacie                    |
+| Thurs 10/22    | Waverley, Wilson, Daisy, Alex, Katherine, Bella                      |
+| Tues 10/29    | Bella                      |
+| Thurs 11/05    | Bella, Daisy, Sayana                      |
