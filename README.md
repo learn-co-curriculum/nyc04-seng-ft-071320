@@ -95,7 +95,7 @@ Be sure to publish all your blogs on [Medium](https://medium.com/) or [Dev](http
 | 09/03    | Dong, Katherine, Emmanuel, Franklin, Hortencia, Jade      |
 | 09/08    | Lida, Patrick, Samir                   |
 | 09/10    | Waverley, Wilson                      |
-| 09/15    | ChenYun, Christy, David, Dong, Samantha, Sayana                      |
+| 09/15    | ChenYun, Christy, David, Dong, Samantha, Sayana, Alex                      |
 | 09/17    | Emmanuel, Franklin, Hortencia, Jade, Jacie, Anna                          |
 | Tues 09/22    | Lida, Nunny, Patrick                |
 | Thurs 09/24    | Steven, Waverley, Wilson, Alex, Anna, Nunny                  |
