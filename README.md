@@ -19,6 +19,7 @@ Missing something? Ping your lead on Slack. (Also, here is [all the code](https:
 | Fetch UD | [Code](https://github.com/learn-co-students/nyc04-seng-ft-071320/tree/master/36-fetch-ud) | [Video 1](https://youtu.be/NWazXWC2b2k), [Video 2](https://youtu.be/ZbXFVrLLeLs) | [Chat](https://github.com/learn-co-students/nyc04-seng-ft-071320/blob/master/36-fetch-ud/chat.txt) |
 | Toy Tales | [Code](https://github.com/learn-co-students/nyc04-seng-ft-071320/tree/master/37-toy-tales) | [Video 1](https://youtu.be/qoVmmOQcUq8), [Video 2](https://youtu.be/_LvuklmPImM) | [Chat](https://github.com/learn-co-students/nyc04-seng-ft-071320/blob/master/37-toy-tales/chat.txt) |
 | Woof Woof | [Code](https://github.com/learn-co-students/nyc04-seng-ft-071320/tree/master/38-woof-woof) | [Video 1](https://youtu.be/2zgXLh3Xmp8), [Video 2](https://youtu.be/uNg2EAfWrj8), [Video 3](https://youtu.be/uJwxD-6Mkxs)  | [Chat](https://github.com/learn-co-students/nyc04-seng-ft-071320/blob/master/38-woof-woof/chat.txt) |
+| Rails API | [Code](https://github.com/learn-co-students/nyc04-seng-ft-071320/tree/master/39-rails-api) | [Video 1](https://youtu.be/raxzzJzasjc), [Video 2](https://youtu.be/eTa0q-ew4oU)  | [Chat](https://github.com/learn-co-students/nyc04-seng-ft-071320/blob/master/39-rails-api/chat.txt) |
 
 ## Mod 2
 
