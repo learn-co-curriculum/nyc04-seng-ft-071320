@@ -20,6 +20,7 @@ Missing something? Ping your lead on Slack. (Also, here is [all the code](https:
 | Toy Tales | [Code](https://github.com/learn-co-students/nyc04-seng-ft-071320/tree/master/37-toy-tales) | [Video 1](https://youtu.be/qoVmmOQcUq8), [Video 2](https://youtu.be/_LvuklmPImM) | [Chat](https://github.com/learn-co-students/nyc04-seng-ft-071320/blob/master/37-toy-tales/chat.txt) |
 | Woof Woof | [Code](https://github.com/learn-co-students/nyc04-seng-ft-071320/tree/master/38-woof-woof) | [Video 1](https://youtu.be/2zgXLh3Xmp8), [Video 2](https://youtu.be/uNg2EAfWrj8), [Video 3](https://youtu.be/uJwxD-6Mkxs)  | [Chat](https://github.com/learn-co-students/nyc04-seng-ft-071320/blob/master/38-woof-woof/chat.txt) |
 | Rails API | [Code](https://github.com/learn-co-students/nyc04-seng-ft-071320/tree/master/39-rails-api) | [Video 1](https://youtu.be/raxzzJzasjc), [Video 2](https://youtu.be/eTa0q-ew4oU)  | [Chat](https://github.com/learn-co-students/nyc04-seng-ft-071320/blob/master/39-rails-api/chat.txt) |
+| Rails Serializers | [Code](https://github.com/learn-co-students/nyc04-seng-ft-071320/tree/master/40-serializers) | [Video 1](https://youtu.be/pmMsMSKpFCU), [Video 2](https://youtu.be/WDYmjlO45y4)  | [Chat](https://github.com/learn-co-students/nyc04-seng-ft-071320/blob/master/40-serializers/chat.txt) |
 
 ## Mod 2
 
