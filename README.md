@@ -21,6 +21,8 @@ Missing something? Ping your lead on Slack. (Also, here is [all the code](https:
 | Woof Woof | [Code](https://github.com/learn-co-students/nyc04-seng-ft-071320/tree/master/38-woof-woof) | [Video 1](https://youtu.be/2zgXLh3Xmp8), [Video 2](https://youtu.be/uNg2EAfWrj8), [Video 3](https://youtu.be/uJwxD-6Mkxs)  | [Chat](https://github.com/learn-co-students/nyc04-seng-ft-071320/blob/master/38-woof-woof/chat.txt) |
 | Rails API | [Code](https://github.com/learn-co-students/nyc04-seng-ft-071320/tree/master/39-rails-api) | [Video 1](https://youtu.be/raxzzJzasjc), [Video 2](https://youtu.be/eTa0q-ew4oU)  | [Chat](https://github.com/learn-co-students/nyc04-seng-ft-071320/blob/master/39-rails-api/chat.txt) |
 | Rails Serializers | [Code](https://github.com/learn-co-students/nyc04-seng-ft-071320/tree/master/40-serializers) | [Video 1](https://youtu.be/pmMsMSKpFCU), [Video 2](https://youtu.be/WDYmjlO45y4)  | [Chat](https://github.com/learn-co-students/nyc04-seng-ft-071320/blob/master/40-serializers/chat.txt) |
+| OOJS | [Code](https://github.com/learn-co-students/nyc04-seng-ft-071320/tree/master/41-oojs) | [Video 1](https://youtu.be/JKYMZDUFGjA), [Video 2](https://youtu.be/dmOKBis3FcY)  | [Chat](https://github.com/learn-co-students/nyc04-seng-ft-071320/blob/master/41-oojs/chat.txt) |
+| Login Functionality | [Code](https://github.com/learn-co-students/nyc04-seng-ft-071320/tree/master/41.5-login) | [Video 1](https://youtu.be/-c11OgF7ANM), [Video 2](https://youtu.be/YzDdIDa6aeE)  | [Chat](https://github.com/learn-co-students/nyc04-seng-ft-071320/blob/master/41.5-login/chat.txt) |
 
 ## Mod 2
 
