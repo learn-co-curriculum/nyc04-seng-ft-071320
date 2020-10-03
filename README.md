@@ -24,6 +24,7 @@ Missing something? Ping your lead on Slack. (Also, here is [all the code](https:
 | Login Functionality | [Code](https://github.com/learn-co-students/nyc04-seng-ft-071320/tree/master/41.5-login) | [Video 1](https://youtu.be/-c11OgF7ANM), [Video 2](https://youtu.be/YzDdIDa6aeE)  | [Chat](https://github.com/learn-co-students/nyc04-seng-ft-071320/blob/master/41.5-login/chat.txt) |
 | OOJS | [Code](https://github.com/learn-co-students/nyc04-seng-ft-071320/tree/master/41-oojs) | [Video 1](https://youtu.be/JKYMZDUFGjA), [Video 2](https://youtu.be/dmOKBis3FcY)  | [Chat](https://github.com/learn-co-students/nyc04-seng-ft-071320/blob/master/41-oojs/chat.txt) |
 | This | [Code](https://github.com/learn-co-students/nyc04-seng-ft-071320/tree/master/42-this) | [Video 1](https://youtu.be/1LKzIMAmiSU), [Video 2](https://youtu.be/fqrEM1wTNhM)  | [Chat](https://github.com/learn-co-students/nyc04-seng-ft-071320/blob/master/42-this/chat.txt) |
+| ES6 | [Code](https://github.com/learn-co-students/nyc04-seng-ft-071320/tree/master/43-es6) | [Video 1](https://youtu.be/G2KzIOZGIts), [Video 2](https://youtu.be/7X0wIyYJ9Wg)  | [Chat](https://github.com/learn-co-students/nyc04-seng-ft-071320/blob/master/43-es6/chat.txt) |
 
 ## Mod 2
 
