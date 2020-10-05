@@ -6,6 +6,12 @@
 ## Lectures and reviews
 Missing something? Ping your lead on Slack. (Also, here is [all the code](https://github.com/learn-co-students/nyc04-seng-ft-071320) from the lectures.) 
 
+## Mod 4
+| Topic            | Code                | Video                | Chat notes |
+| -----            | ----                | -----                | ---- |
+| Components And Props | [Code](https://github.com/learn-co-students/nyc04-seng-ft-071320/tree/master/44-components-props)| [Video 1](https://youtu.be/SIyGkHr93Oo), [Video 2](https://youtu.be/UVlvadm97to), [Video 3](https://youtu.be/kiiCM47rTAE)   | [Chat](https://github.com/learn-co-students/nyc04-seng-ft-071320/blob/master/44-components-props/chat.txt)      |
+| State and Events | [Code](https://github.com/learn-co-students/nyc04-seng-ft-071320/tree/master/45-state-events) | [Video 1](https://youtu.be/WAPrFrUGaYk), [Video 2](https://youtu.be/dASO9Tp6gAg)     | [Chat](https://github.com/learn-co-students/nyc04-seng-ft-071320/blob/master/45-state-events/chat.txt)      |
+
 ## Mod 3
 | Topic            | Code                | Video                | Chat notes |
 | -----            | ----                | -----                | ---- |
