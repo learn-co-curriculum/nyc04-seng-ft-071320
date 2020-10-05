@@ -112,6 +112,6 @@ Be sure to publish all your blogs on [Medium](https://medium.com/) or [Dev](http
 | Tues 10/13    | David, Dong, Katherine, Emmanuel, Franklin, Hortencia, Steven            |
 | Thurs 10/15    | Jade, Daisy, Lida, Nunny, Patrick, Alex, Bella                     |
 | Tues 10/20    | Samantha, Samir, Sayana, Jacie, Franklin, Josh                     |
-| Thurs 10/22    | Waverley, Wilson, Daisy, Alex, Katherine, Bella, Steven                      |
+| Thurs 10/22    | Waverley, Wilson, Daisy, Katherine, Bella, Steven                      |
 | Tues 10/29    | Bella, Lida, Jacie                     |
 | Thurs 11/05    | Bella, Daisy, Sayana                      |
