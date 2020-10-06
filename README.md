@@ -12,6 +12,8 @@ Missing something? Ping your lead on Slack. (Also, here is [all the code](c) fro
 | Components And Props | [Code](https://github.com/learn-co-students/nyc04-seng-ft-071320/tree/master/44-components-props)| [Video 1](https://youtu.be/SIyGkHr93Oo), [Video 2](https://youtu.be/UVlvadm97to), [Video 3](https://youtu.be/kiiCM47rTAE)   | [Chat](https://github.com/learn-co-students/nyc04-seng-ft-071320/blob/master/44-components-props/chat.txt)      |
 | State and Events | [Code](https://github.com/learn-co-students/nyc04-seng-ft-071320/tree/master/45-state-events) | [Video 1](https://youtu.be/WAPrFrUGaYk), [Video 2](https://youtu.be/dASO9Tp6gAg)     | [Chat](https://github.com/learn-co-students/nyc04-seng-ft-071320/blob/master/45-state-events/chat.txt)      |
 | Refactoring React App | [Code](https://github.com/learn-co-students/nyc04-seng-ft-071320/tree/master/46-refactoring) | [Video](https://youtu.be/nsJPh1jMl_Q)     | [Chat](https://github.com/learn-co-students/nyc04-seng-ft-071320/blob/master/46-refactoring/chat.txt)      |
+| Controlled Components + Inverse Data Flow | [Code](https://github.com/learn-co-students/nyc04-seng-ft-071320/tree/master/47-controlled-components) | [Video 1](https://youtu.be/LorUE8btRjk), [Video 2](https://youtu.be/S7TN9Z_Mz1k)     | [Chat](https://github.com/learn-co-students/nyc04-seng-ft-071320/blob/master/47-controlled-components/chat.txt)      |
+
 
 ## Mod 3
 | Topic            | Code                | Video                | Chat notes |
