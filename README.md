@@ -4,7 +4,7 @@
 <iframe src="https://calendar.google.com/calendar/b/1/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FNew_York&amp;src=ZmxhdGlyb25zY2hvb2wuY29tX2RrN3UxM3IwbnNhNzNvbXBtMnZrMm5qcmxnQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&amp;src=ZmxhdGlyb25zY2hvb2wuY29tX241aDBmbHNkOGY0aWU1NzNtZnY2bTg1cm4wQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&amp;color=%230B8043&amp;color=%23D81B60&amp;mode=WEEK" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 ## Lectures and reviews
-Missing something? Ping your lead on Slack. (Also, here is [all the code](c) from the lectures.) 
+Missing something? Ping your lead on Slack. (Also, here is [all the code](https://github.com/learn-co-students/nyc04-seng-ft-071320) from the lectures.) 
 
 ## Mod 4
 | Topic            | Code                | Video                | Chat notes |
@@ -14,6 +14,7 @@ Missing something? Ping your lead on Slack. (Also, here is [all the code](c) fro
 | Refactoring React App | [Code](https://github.com/learn-co-students/nyc04-seng-ft-071320/tree/master/46-refactoring) | [Video](https://youtu.be/nsJPh1jMl_Q)     | [Chat](https://github.com/learn-co-students/nyc04-seng-ft-071320/blob/master/46-refactoring/chat.txt)      |
 | Controlled Components + Inverse Data Flow | [Code](https://github.com/learn-co-students/nyc04-seng-ft-071320/tree/master/47-controlled-components) | [Video 1](https://youtu.be/LorUE8btRjk), [Video 2](https://youtu.be/S7TN9Z_Mz1k)     | [Chat](https://github.com/learn-co-students/nyc04-seng-ft-071320/blob/master/47-controlled-components/chat.txt)      |
 | CRUD | [Code](https://github.com/learn-co-students/nyc04-seng-ft-071320/tree/master/48-crud) | [Video 1](https://youtu.be/5LgRlO_3tAE), [Video 2](https://youtu.be/Zw4M9Kl4lzM)     | [Chat](https://github.com/learn-co-students/nyc04-seng-ft-071320/blob/master/48-crud/frontend/chat.txt)      |
+| Search && Dynamic Rendering | [Code](https://github.com/learn-co-students/nyc04-seng-ft-071320/tree/master/49-search) | [Video 1](https://youtu.be/3ijuRF1N7TA), [Video 2](https://youtu.be/MULexwLoAQ0)     | [Chat](https://github.com/learn-co-students/nyc04-seng-ft-071320/blob/master/49-search/frontend/chat.txt)      |
 
 
 ## Mod 3
