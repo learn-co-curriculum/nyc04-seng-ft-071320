@@ -17,6 +17,7 @@ Missing something? Ping your lead on Slack. (Also, here is [all the code](https:
 | Search && Dynamic Rendering | [Code](https://github.com/learn-co-students/nyc04-seng-ft-071320/tree/master/49-search) | [Video 1](https://youtu.be/3ijuRF1N7TA), [Video 2](https://youtu.be/MULexwLoAQ0)     | [Chat](https://github.com/learn-co-students/nyc04-seng-ft-071320/blob/master/49-search/frontend/chat.txt)      |
 | Working with Nested Data | [Code](https://github.com/learn-co-students/nyc04-seng-ft-071320/tree/master/50-nested-state) | [Video](https://youtu.be/PhBQfthEwVc)   | [Chat](https://github.com/learn-co-students/nyc04-seng-ft-071320/blob/master/50-nested-state/frontend/chat.txt)      |
 | Hogwarts Review | [Code](https://github.com/learn-co-students/nyc04-seng-ft-071320/tree/master/51-hogwarts) | [Video 1](https://youtu.be/kqKdPOFT5bY), [Video 2](https://youtu.be/RqyGdk46QPA)     | [Chat](https://github.com/learn-co-students/nyc04-seng-ft-071320/blob/master/51-hogwarts/chat.txt)      |
+| Router | [Code](https://github.com/learn-co-students/nyc04-seng-ft-071320/tree/master/52-react-router) | [Video 1](https://youtu.be/3ppZznIRkDg), [Video 2](https://youtu.be/ZnEvaj18_N8)     | [Chat](https://github.com/learn-co-students/nyc04-seng-ft-071320/blob/master/52-react-router/chat.txt)      |
 
 ## Mod 3
 | Topic            | Code                | Video                | Chat notes |
