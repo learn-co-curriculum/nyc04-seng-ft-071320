@@ -123,11 +123,14 @@ Be sure to publish all your blogs on [Medium](https://medium.com/) or [Dev](http
 | Thurs 09/24    | Waverley, Wilson, Anna, Nunny                  |
 | Tues 09/29    | ChenYun, Christy, David, Dong, Katherine, Emmanuel, Samir                     |
 | Thurs 10/01    | Hortencia                     |
-| Tues 10/06    | Patrick, Samantha, Sayana, Steven, Daisy, Jade                     |
+| Tues 10/06    | Patrick, Sayana, Steven, Daisy, Jade                     |
 | Thurs 10/08    | Waverley, Wilson, Anna, ChenYun, Christy, Alex                     |
 | Tues 10/13    | David, Dong, Katherine, Emmanuel, Franklin, Hortencia            |
 | Thurs 10/15    | Jade, Daisy, Lida, Patrick, Alex, Bella                     |
-| Tues 10/20    | Samantha, Samir, Jacie, Franklin, Josh                     |
-| Thurs 10/22    | Waverley, Wilson, Daisy, Katherine, Bella, Steven, Nunny                      |
+| Tues 10/20    | Samir, Jacie, Franklin                     |
+| Thurs 10/22    | Waverley, Wilson, Daisy, Katherine, Steven, Nunny, Josh                      |
 | Tues 10/27    | Bella, Lida, Jacie, Nunny, Steven, Samir, Sayana                     |
-| Thurs 10/29    | Bella, Daisy, Sayana                      |
+| Thurs 10/29    | Daisy, Sayana, Samantha                      |
+| Tues 11/03    | Bella                      |
+| Thurs 11/05    | Bella, Samantha                      |
+| Tues 11/10    |  Bella, Samantha                     |
