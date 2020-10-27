@@ -131,8 +131,8 @@ Be sure to publish all your blogs on [Medium](https://medium.com/) or [Dev](http
 | Thurs 10/15    | Jade, Daisy, Lida, Patrick, Alex, Bella                     |
 | Tues 10/20    | Samir, Jacie, Franklin                     |
 | Thurs 10/22    | Waverley, Wilson, Daisy, Katherine, Nunny, Josh                      |
-| Tues 10/27    | Bella, Lida, Jacie, Nunny, Steven, Samir, Sayana                     |
-| Thurs 10/29    | Daisy, Sayana, Samantha                      |
+| Tues 10/27    | Bella, Lida, Jacie, Steven, Samir, Sayana                     |
+| Thurs 10/29    | Daisy, Nunny, Sayana, Samantha                      |
 | Tues 11/03    | Bella                      |
 | Thurs 11/05    | Bella, Samantha                      |
 | Tues 11/10    |  Bella, Samantha                     |
