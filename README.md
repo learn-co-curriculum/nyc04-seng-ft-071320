@@ -23,6 +23,7 @@ Missing something? Ping your lead on Slack. (Also, here is [all the code](https:
 | Hooks | [Code](https://github.com/learn-co-students/nyc04-seng-ft-071320/tree/master/55-hooks) | [Video 1](https://youtu.be/_bLMxqwk8hc), [Video 2](https://youtu.be/OCqxaQbRS4c)     | [Chat](https://github.com/learn-co-students/nyc04-seng-ft-071320/blob/master/55-hooks/frontend/chat.txt)      |
 | Predux | [Slides](https://docs.google.com/presentation/d/1hkwL4RJ6XxlCBxVPjBonkhi8wU9ZPeiCmrj8gLw8zDw/edit?usp=sharing) | [Video 1](https://youtu.be/TdrMFlN6Gdo), [Video 2](https://youtu.be/WsQlwt35BlI)     | [Chat](https://github.com/learn-co-students/nyc04-seng-ft-071320/blob/master/predux-chat.txt)      |
 | React-Redux | [Code](https://github.com/learn-co-students/nyc04-seng-ft-071320/tree/master/56-react-redux) | [Video 1](https://youtu.be/EKZTNblGV_g), [Video 2](https://youtu.be/-MIIIvxYkzg)     | [Chat](https://github.com/learn-co-students/nyc04-seng-ft-071320/blob/master/56-react-redux/chat.txt)      |
+| Redux Auth | [Code](https://github.com/learn-co-students/nyc04-seng-ft-071320/tree/master/57-redux-auth) | [Video 1](https://youtu.be/7c2Eioadkjc), [Video 2](https://youtu.be/gdb2P8X0Xvo)     | [Chat](https://github.com/learn-co-students/nyc04-seng-ft-071320/blob/master/57-redux-auth/chat.txt)      |
 
 ## Mod 3
 | Topic            | Code                | Video                | Chat notes |
